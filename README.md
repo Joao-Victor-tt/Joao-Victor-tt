@@ -1,3 +1,5 @@
-### Boa vindas ao meu perfil :blue_heart
+### Boa vindas ao meu perfil 💙
 
+Meu nome é João Victor
+- estou estudando na alura
 
